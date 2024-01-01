@@ -17,8 +17,9 @@ Para ello crearemos un archivo con ese código dentro:
 </methodCall>
 ```
 
-`curl -s -X POST "http://localhost:31337/xmlrpc.php" -d@file.xml
-
+```
+curl -s -X POST "http://localhost:31337/xmlrpc.php" -d@file.xml
+```
 Si en el output de este comando encontramos `wp.getUsersBlog` 
 
 Podremos ejecutar el script con exito (Cambiando los apartados que indica)
