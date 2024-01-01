@@ -2,7 +2,7 @@
 
 *Poniendo en la url `xmlrpc.php`*
 
-![[Pasted image 20231231190839.png]]
+![image](https://github.com/ManuGalan/Brute-Forze-on-Wordpress/assets/96147300/130965d5-092f-4911-9e08-a90eed654c2f)
 
 *Una vez que sabemos esto Utilizamos este código para ver si esta activo el método 
 `wp.getUsersBlog` que nos va a permitir enumerar credenciales válidas*
