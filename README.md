@@ -22,4 +22,4 @@ curl -s -X POST "http://localhost:31337/xmlrpc.php" -d@file.xml
 ```
 Si en el output de este comando encontramos `wp.getUsersBlog` 
 
-Podremos ejecutar el script con exito (Cambiando los apartados que indica)
+Podremos ejecutar el script con éxito (Cambiando los apartados que indica)
